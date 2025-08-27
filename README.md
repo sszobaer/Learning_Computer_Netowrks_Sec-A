@@ -7,4 +7,7 @@
 
 ## Final Lab 01
 <img width="1920" height="1080" alt="Final_Lab-1" src="https://github.com/user-attachments/assets/2f02770b-b645-408f-a7da-cffad0f64e51" />
+### ping 
+<img width="1037" height="839" alt="image" src="https://github.com/user-attachments/assets/345da35e-f8ca-4d80-84ea-f34a85a957bc" />
+
 
