@@ -18,7 +18,8 @@
 <img width="1048" height="825" alt="Screenshot 2025-09-03 095852" src="https://github.com/user-attachments/assets/a25c29ad-6de8-4b50-950a-23b6e0445603" />
 
 ## Final Lab 04
-<img width="1920" height="1080" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/4f4566f1-ea63-4f74-b414-ef655ef9f834" />
+<img width="1920" height="1080" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/e8c84484-fb11-4f63-b19d-eb17677d1206" />
+
 
 ### Ping
 <img width="1920" height="1080" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/a52dcbc8-e99a-46fc-8237-8981f75271a4" />
