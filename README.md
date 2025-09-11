@@ -21,7 +21,6 @@
 <img width="1920" height="1080" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/4f4566f1-ea63-4f74-b414-ef655ef9f834" />
 
 ### Ping
-![Uploading Screenshot (292).png…]()
 <img width="1920" height="1080" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/a52dcbc8-e99a-46fc-8237-8981f75271a4" />
 
 
